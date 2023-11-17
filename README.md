@@ -27,14 +27,14 @@ https://dev-010-social-network-pi.vercel.app/
 
 ## Habilidades blandas
 
-Resolucion de problemas
-Proactividad
-Creatividad
-Aporte de ideas
-Trabajo en equipo
-Atención al detalle
-aprendizaje autónomo
-Comunicación Efectiva
+- **Resolucion de problemas**
+- **Proactividad**
+- **Creatividad**
+- **Aporte de ideas**
+- **Trabajo en equipo**
+- **Atención al detalle**
+- **aprendizaje autónomo**
+- **Comunicación Efectiva**
 
 
 ## 🌐 Socials:
